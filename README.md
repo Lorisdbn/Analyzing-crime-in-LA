@@ -5,8 +5,8 @@
 **Los Angeles, California 😎**.  
 The City of Angels. Tinseltown. The Entertainment Capital of the World!
 
-Known for its **warm weather**, **palm trees**, **sprawling coastline**, and **Hollywood**, along with producing some of the most iconic films and songs.  
-However, as with any highly populated city, it isn’t always glamorous — and there can be a **large volume of crime**.  
+Known for its warm weather, palm trees, sprawling coastline, and Hollywood, along with producing some of the most iconic films and songs.  
+However, as with any highly populated city, it isn’t always glamorous — and there can be a large volume of crime**.  
 ---
 
 ## 🎯 Project Context
